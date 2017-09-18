@@ -1,3 +1,16 @@
-# First Chapter
+# 计算机硬件的五大单元
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+![](/assets/1.png)
+
+关亍计算机的组成部分，其实你可以观察你的桌面计算机分析一下，依外观来说这家伙主要分为三部分：
+
+  输入单元：包括键盘、鼠标、卡片阅读机、扫描仪、手写板、触控屏幕等等一堆；
+
+  系统单元：被主机机壳保护住了，里面含有 CPU与主存储器等；
+
+  输出单元：例如屏幕、打印机等等
+
+综合上面所说的，我们会知道其实计算机是由几个单元所组成的，包括输入单元、 输出单元、CPU 内
+
+部的控制单元、算数逻辑单元与主存储器五大部分。
+
