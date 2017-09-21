@@ -8,6 +8,8 @@
 
 ## 第一章
 
+* [安装与下载](di-yi-zhang/linuxde-an-zhuang.md)
+
 ## 扩展阅读
 
 * [推荐书籍列表](kuo-zhan-yue-du/tui-jian-shu-ji-lie-biao.md)
