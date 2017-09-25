@@ -58,3 +58,7 @@ virtualbox虚拟机下载：[http://rj.baidu.com/search/index/?kw=virtualbox](ht
 
 ![](/assets/7dad3405-552c-4672-b1d8-5c901ef0873c.png)
 
+11、进入正式安装界面，有三个选项，我们选择第一个“install centos 7”
+
+![](/assets/41b2b33f-de2f-4724-8b96-55cd51b17b60.png)
+
