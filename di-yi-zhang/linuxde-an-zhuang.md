@@ -62,3 +62,7 @@ virtualbox虚拟机下载：[http://rj.baidu.com/search/index/?kw=virtualbox](ht
 
 ![](/assets/41b2b33f-de2f-4724-8b96-55cd51b17b60.png)
 
+12、在“软件选择”中。由于是新手，推荐选择GUI并且填上这三个选项即可
+
+![](/assets/9289b820-444b-43ba-8e36-e1973a4ec0c0.png)
+
