@@ -120,3 +120,9 @@ swap分区相当于Window 中虚拟内存的概念，也就是内存数据与硬
 
 ![](/assets/600677e6-443c-4837-af67-22fc6f919593.png)
 
+---
+
+14、进行网络配置，默认只有一个以太网配置，点击右下角“配置”，然后在常规设置![](/assets/asdzxczxc.png)再设置IPV4![](/assets/asd54xc498v987b.png)最后开启网络即可
+
+![](/assets/asdejcxvxxb.png)
+
