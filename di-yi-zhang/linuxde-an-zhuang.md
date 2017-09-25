@@ -8,6 +8,12 @@ virtualbox虚拟机下载：[http://rj.baidu.com/search/index/?kw=virtualbox](ht
 
 # 一、虚拟机安装centos
 
+0、默认虚拟电脑位置是C:\\某个位置，为了C盘的容量着想，先设置为空闲的盘![](/assets/sad548sd48xz121.png)
+
+随意设置为自己闲置的盘
+
+![](/assets/sadjaisdjaisdjiasjdazx888.png)
+
 1、新建虚拟机，选择 “linux” 和 "linux2.6 \(64 bit\)"。
 
 ![](/assets/xunijiaasdasd.png)
