@@ -9,6 +9,7 @@
 ## 第一章
 
 * [安装与下载](di-yi-zhang/linuxde-an-zhuang.md)
+* [常用命令](di-yi-zhang/chang-yong-ming-ling.md)
 
 ## 扩展阅读
 
