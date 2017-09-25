@@ -8,7 +8,7 @@ virtualbox虚拟机下载：[http://rj.baidu.com/search/index/?kw=virtualbox](ht
 
 # 一、虚拟机安装centos
 
-0、默认虚拟电脑位置是C:\\某个位置，为了C盘的容量着想，先设置为空闲的盘![](/assets/sad548sd48xz121.png)
+0、默认虚拟电脑位置是C:\某个位置，为了C盘的容量着想，先设置为空闲的盘![](/assets/sad548sd48xz121.png)
 
 随意设置为自己闲置的盘
 
@@ -128,7 +128,7 @@ swap分区相当于Window 中虚拟内存的概念，也就是内存数据与硬
 
 ---
 
-14、进行网络配置，默认只有一个以太网配置，点击右下角“配置”，然后在常规设置![](/assets/asdzxczxc.png)再设置IPV4![](/assets/asd54xc498v987b.png)最后开启网络即可
+14、进行网络配置，默认只有一个以太网配置，点击右下角“配置”，然后在常规设置![](/assets/asdzxczxc.png)再设置IPV4![](/assets/asd54xc498v987b.png)最后开启网络即可![](/assets/asdejcxvxxb.png)15、设置一下Root管理员密码，并且新建一个普通权限的账号（非管理员）
 
-![](/assets/asdejcxvxxb.png)
+![](/assets/sdasdasdasdasdyttyuy.png)
 
