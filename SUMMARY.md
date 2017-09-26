@@ -18,6 +18,7 @@
 ## 第二章
 
 * [系统服务管理工具systemd](di-er-zhang/xi-tong-fu-wu-guan-li-gong-ju-systemd.md)
+* [Linux 与 SecureCRT 最常用的终端仿真程序](di-er-zhang/linux-yu-securecrt-zui-chang-yong-de-zhong-duan-fang-zhen-cheng-xu.md)
 
 ## 扩展阅读
 
