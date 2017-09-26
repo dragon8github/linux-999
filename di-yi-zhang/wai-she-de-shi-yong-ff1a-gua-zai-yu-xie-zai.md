@@ -56,5 +56,5 @@ umount /mnt/usb
 umount /mnt/cdrom
 ```
 
-
+Linux 对文件系统的保护做的很到位，在光盘没有卸载之前，光驱上面的弹出键不起任何作用。
 
