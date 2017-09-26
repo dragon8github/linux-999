@@ -50,8 +50,6 @@ systemctl disable httpd.service
 systemctl status httpd.service
 ```
 
-
-
 ### systemd 命令 和 sysvinit 命令对比
 
 以httpd服务为示例，列出两个命令的区别
@@ -62,7 +60,7 @@ systemctl status httpd.service
 | service httpd stop | systemctl stop httpd.service | 关闭服务。 |
 | service httpd restart | systemctl restart httpd.service | 重启服务，而不管服务当前是启动或关闭状态。 |
 | service httpd reload | systemctl reload httpd.service | 重新载入配置信息而不中断服务。 |
-| service httpd condrestart  | systemctl  condrestart httpd.service | 重启服务，如果服务已在运行。 |
+| service httpd condrestart | systemctl  condrestart httpd.service | 重启服务，如果服务已在运行。 |
 | service httpd status | systemctl status httpd.service | 查看服务的运行状态 |
 | chkconfig httpd on | systemctl enable httpd.service | 设置httpd服务开机自启动 |
 | chkconfig httpd off | systemctl disable httpd.service | 禁止httpd服务开机自启动 |
