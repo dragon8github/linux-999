@@ -11,6 +11,7 @@
 * [安装与下载](di-yi-zhang/linuxde-an-zhuang.md)
 * [常用命令](di-yi-zhang/chang-yong-ming-ling.md)
 * [shell的基本功](di-yi-zhang/shellde-ji-ben-gong.md)
+* [外设的使用：挂载与卸载](di-yi-zhang/wai-she-de-shi-yong-ff1a-gua-zai-yu-xie-zai.md)
 
 ## 扩展阅读
 

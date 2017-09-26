@@ -25,8 +25,6 @@ Linux 下的命令大概有600多个，而常用的命令其实只有80个左右
 | more | more -c -10 \[文件名\] | 查看文件内容，按空格往下一页，按b键返回一页，按q退出。 |
 | cat | cat \[文件名\] | 查看文件内容 |
 
-
-
 # 系统与硬件
 
 | 命令 | 实例 | 作用 |
@@ -35,6 +33,7 @@ Linux 下的命令大概有600多个，而常用的命令其实只有80个左右
 |  | cat /proc/cpuinfo \| grep "physical id" \| sort \| uniq \| wc -l | 查看系统物理CPU的个数 |
 |  | cat /proc/cpuinfo \| grep "cpu cores" | 查看每个物理cpu中内核的个数 |
 |  | fdisk -l | 查看磁盘分区信息 |
+|  | more /proc/meminfo | 查看系统内存信息 |
 
 
 
