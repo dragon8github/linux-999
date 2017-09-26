@@ -27,7 +27,7 @@ Linux 下的命令大概有600多个，而常用的命令其实只有80个左右
 
 # 系统与硬件
 
-| 实例 | 作用 |
+| 命令 | 作用 |
 | :--- | :--- |
 | more /proc/cpuinfo | 查看cpu信息 |
 | cat /proc/cpuinfo \| grep "physical id" \| sort \| uniq \| wc -l | 查看系统物理CPU的个数 |
