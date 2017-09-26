@@ -18,6 +18,7 @@
 ## 第二章
 
 * [系统服务管理工具systemd](di-er-zhang/xi-tong-fu-wu-guan-li-gong-ju-systemd.md)
+* [Linux 下软件的安装和管理](di-er-zhang/linux-xia-ruan-jian-de-an-zhuang-he-guan-li.md)
 
 ## 扩展阅读
 
