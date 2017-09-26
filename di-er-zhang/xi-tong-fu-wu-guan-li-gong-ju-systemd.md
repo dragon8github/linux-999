@@ -30,5 +30,25 @@ systemctl try-restart httpd.service
 systemctl reload httpd.service
 ```
 
+### 查看、禁止、启用服务
+
+systemctl 命令可以启用、禁止服务，以此来控制开机服务启动，可以使用enable / disable 选项来控制一个服务是否开机启动，命令如下：
+
+```
+systemctl enable httpd.service
+```
+
+这就打开了httpd 服务开机自启动功能。要关闭httpd服务。可执行如下命令。
+
+```
+systemctl disable httpd.service
+```
+
+要查看一个服务的运行状态，可以使用systemctl 命令的 “status” 选项
+
+```
+systemctl status httpd.service
+```
+
 
 
