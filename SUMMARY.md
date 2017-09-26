@@ -15,6 +15,10 @@
 * [外设的使用：挂载与卸载](di-yi-zhang/wai-she-de-shi-yong-ff1a-gua-zai-yu-xie-zai.md)
 * [Linux 系统核心组成](di-yi-zhang/linux-xi-tong-he-xin-zu-cheng.md)
 
+## 第二章
+
+* [系统服务管理工具systemd](di-er-zhang/xi-tong-fu-wu-guan-li-gong-ju-systemd.md)
+
 ## 扩展阅读
 
 * [推荐书籍列表](kuo-zhan-yue-du/tui-jian-shu-ji-lie-biao.md)
